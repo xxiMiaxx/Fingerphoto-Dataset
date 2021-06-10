@@ -1,7 +1,7 @@
 # Fingerphoto-Dataset
 This dataset is inspired by the following paper [On Matching Finger-selfies using Deep Scattering Networks](http://iab-rubric.org/papers/2020_TBIOM_Fphoto.pdf)
 
-We have collected this dataset using a crowd sourcing platform (Amazon mTurk). This dataset was collected over three batches. Each worker has submitted 20 images in total, comprised of 10 for the index finger and 10 for the middle finger. The images are taken for the same hand, Taken by a mobile camera and using flash.
+We have collected this dataset using a crowd sourcing platforms (Amazon mTurk + crowdwork). This dataset was collected over three batches. Each worker has submitted 20 images in total, comprised of 10 for the index finger and 10 for the middle finger. The images are taken for the same hand, Taken by a mobile camera and using flash.
 
 
 So during this experiment we collected 2340 fingerphoto images.
@@ -49,16 +49,20 @@ Below we display tables detailing each batch.
  
 
 
-## 1220 (First and Second batch) + 1120 (Third batch) = 2340 images collected.
+### 1220 (First and Second batch) + 1120 (Third batch) = 2340 images collected.
 
  
 
  
 
-So during this experiment we collected 2340 fingerphoto images. Please let me know if you have any further questions.
-This experimant was fully personaly funded. you will find both the images and the labels in json file format that containes the coordinates to crop the exact fingerprint. i will also upload the python notebook that does the cropping for you.
+So during this experiment we collected 2340 fingerphoto images.
+This experimant was fully personally funded. you will find both the images and the labels in json file format that containes the coordinates to crop the exact fingerprint. i will also upload the python notebook that does the cropping for you.
 
 This dataset is made (Truly) publicaly available for people to expand on this field and contriute their knowledge.
 
-  
+#### Files order
+- This dataset is divided over 6 folders.
+- Each folder has 18 submission.
+- Each file has 40 items 
+- The items are = 20 images (10 index + 10 middle) + 20 label files corresponding to each image
  
