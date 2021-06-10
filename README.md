@@ -5,9 +5,9 @@ We have collected this dataset using a crowd sourcing platform (Amazon mTurk). T
 
 
 So during this experiment we collected 2340 fingerphoto images.
-Collected Fingerphoto dataset:
 
-below is a table detailing each batch.
+
+Below we display tables detailing each batch.
 
 ## FingerPhoto Dataset (Amazon mTurk)-first batch :
 
