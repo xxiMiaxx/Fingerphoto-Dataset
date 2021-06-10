@@ -1,13 +1,13 @@
 # Fingerphoto-Dataset
 This dataset is inspired by the following paper [On Matching Finger-selfies using Deep Scattering Networks](http://iab-rubric.org/papers/2020_TBIOM_Fphoto.pdf)
 
-We have collected this dataset using a crowd sourcing platform (Amazon mTurk). This dataset was collected over three batches. Each worker has submitted 20 images in total, comprised of 10 for the index finger and 10 for the middle finger. The images are taken for the same hand.
+We have collected this dataset using a crowd sourcing platform (Amazon mTurk). This dataset was collected over three batches. Each worker has submitted 20 images in total, comprised of 10 for the index finger and 10 for the middle finger. The images are taken for the same hand, Taken by a mobile camera and using flash.
 
 
 So during this experiment we collected 2340 fingerphoto images.
 Collected Fingerphoto dataset:
 
-During my work with the freelancer we collected the images in three batches, below is a table detailing each batch.
+below is a table detailing each batch.
 
 ## FingerPhoto Dataset (Amazon mTurk)-first batch :
 
