@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          512.5,
+          848.75
+        ],
+        [
+          58.75,
+          800.0
+        ],
+        [
+          164.73239436619724,
+          135.21126760563382
+        ],
+        [
+          585.9285714285713,
+          195.53571428571428
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A33QZO57NW6EY3_Middle_7.jpg",
+  "imageData": null,
+  "imageHeight": 1280,
+  "imageWidth": 616
+}
