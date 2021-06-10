@@ -9,7 +9,7 @@ Collected Fingerphoto dataset:
 
 During my work with the freelancer we collected the images in three batches, below is a table detailing each batch.
 
-FingerPhoto Dataset (Amazon mTurk)-first batch:
+## FingerPhoto Dataset (Amazon mTurk)-first batch :
 
 | Total Number of HIT submissions      | 71 |
 | ----------- | ----------- |
@@ -21,83 +21,44 @@ FingerPhoto Dataset (Amazon mTurk)-first batch:
 
 
 
- 
+## FingerPhoto Dataset (crowdwork)-second batch :
+
+| Total Number of HIT submissions       | 30 |
+| ----------- | ----------- |
+| Accepted      | 14       |
+| Rejected   | 12        |
+| Pending for access   | 4        |
+| Total number of Images    | 280    (14(submission)x20(image))    |
+| Rejected   | 12        |
 
 
 
-
-
-
-
- 
-
-
-
-
-
-FingerPhoto Dataset (crowdwork)-second batch:
-
-Total Number of HIT submissions 
-
-30
-
-Accepted
-
-14
-
-Rejected 
-
-12
-
-Pending for access 
-
-4
-
-Total number of Images 
-
-280
-
-14(submission)x20(image)
+*940(first batch)+280(second batch)=1220 images*
 
  
 
-940(first batch)+280(second batch)=1220 images
+## FingerPhoto Dataset (crowdwork)-third batch :
+
+| Total Number of HIT submissions      | 125 |
+| ----------- | ----------- |
+| Accepted      | 56       |
+| Rejected   | 52        |
+| Pending for access    | 17        |
+| Total number of Images    | 1120  (56(submission)x20(image))      |
 
  
 
-FingerPhoto Dataset (crowdwork)-third batch:
 
-Total Number of HIT submissions 
-
-125
-
-Accepted
-
-56
-
-Rejected 
-
-52
-
-Pending for access 
-
-17
-
-Total number of Images 
-
-1120
-
-56(submission)x20(image)
-
- 
-
-1220 (First and Second batch) + 1120 (Third batch) = 2340 images collected.
+## 1220 (First and Second batch) + 1120 (Third batch) = 2340 images collected.
 
  
 
  
 
 So during this experiment we collected 2340 fingerphoto images. Please let me know if you have any further questions.
+This experimant was fully personaly funded. you will find both the images and the labels in json file format that containes the coordinates to crop the exact fingerprint. i will also upload the python notebook that does the cropping for you.
+
+This dataset is made (Truly) publicaly available for people to expand on this field and contriute their knowledge.
 
   
  
