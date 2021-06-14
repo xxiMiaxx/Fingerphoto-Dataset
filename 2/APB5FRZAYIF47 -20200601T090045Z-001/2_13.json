@@ -1,0 +1,34 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          1689.1428571428569,
+          2716.142857142857
+        ],
+        [
+          278.42857142857133,
+          2669.7142857142853
+        ],
+        [
+          771.2857142857142,
+          1076.8571428571427
+        ],
+        [
+          1689.1428571428569,
+          1134.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "APB5FRZAYIF47_Middle_3.JPG",
+  "imageData": null,
+  "imageHeight": 3264,
+  "imageWidth": 2448
+}

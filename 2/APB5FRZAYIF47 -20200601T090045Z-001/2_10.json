@@ -1,0 +1,34 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          1724.8571428571427,
+          2708.9999999999995
+        ],
+        [
+          410.57142857142844,
+          2537.5714285714284
+        ],
+        [
+          774.8571428571427,
+          1034.0
+        ],
+        [
+          1828.428571428571,
+          1180.4285714285713
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "APB5FRZAYIF47_Index_10.JPG",
+  "imageData": null,
+  "imageHeight": 3264,
+  "imageWidth": 2448
+}

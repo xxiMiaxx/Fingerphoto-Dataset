@@ -1,0 +1,34 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          498.909090909091,
+          2796.2727272727275
+        ],
+        [
+          1098.909090909091,
+          3173.5454545454545
+        ],
+        [
+          1694.3636363636365,
+          2223.5454545454545
+        ],
+        [
+          1258.0,
+          1896.2727272727273
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "AXKRK1MOEP61J_Index_5.jpg",
+  "imageData": null,
+  "imageHeight": 4032,
+  "imageWidth": 3024
+}

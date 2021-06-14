@@ -1,0 +1,34 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          1924.411764705882,
+          2836.1176470588234
+        ],
+        [
+          842.0588235294113,
+          2736.1176470588234
+        ],
+        [
+          1177.3529411764703,
+          1165.5294117647059
+        ],
+        [
+          1971.4705882352937,
+          1224.3529411764705
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A1PUWQYUQRGCO Index 4.jpg",
+  "imageData": null,
+  "imageHeight": 5312,
+  "imageWidth": 2988
+}

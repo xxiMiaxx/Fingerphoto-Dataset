@@ -1,0 +1,34 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          2900.181818181818,
+          3737.3636363636365
+        ],
+        [
+          1882.0,
+          387.3636363636364
+        ],
+        [
+          0,
+          736
+        ],
+        [
+          675,
+          4095
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Middle Finger 04.jpg",
+  "imageData": null,
+  "imageHeight": 4096,
+  "imageWidth": 3072
+}

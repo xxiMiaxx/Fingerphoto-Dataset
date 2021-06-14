@@ -1,0 +1,34 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          1110.5454545454545,
+          2678.4545454545455
+        ],
+        [
+          1842.3636363636365,
+          3133.0
+        ],
+        [
+          2596.909090909091,
+          1837.5454545454545
+        ],
+        [
+          1969.6363636363635,
+          1496.6363636363637
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A1VY6JOGBLDZSM_Middle_6.jpg",
+  "imageData": null,
+  "imageHeight": 4160,
+  "imageWidth": 3120
+}

@@ -1,0 +1,34 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          3059.272727272727,
+          2841.909090909091
+        ],
+        [
+          1282.0,
+          3705.5454545454545
+        ],
+        [
+          27.454545454545496,
+          1201.0
+        ],
+        [
+          1436.5454545454545,
+          301.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Index Finger 01.jpg",
+  "imageData": null,
+  "imageHeight": 4096,
+  "imageWidth": 3072
+}

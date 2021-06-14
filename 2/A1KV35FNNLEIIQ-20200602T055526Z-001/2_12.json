@@ -1,0 +1,34 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          2318.181818181818,
+          3811.0
+        ],
+        [
+          831.818181818182,
+          3761.0
+        ],
+        [
+          1040.909090909091,
+          1597.3636363636363
+        ],
+        [
+          2277.272727272727,
+          1597.3636363636363
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A1KV35FNNLEIIQ_middle_3.jpg",
+  "imageData": null,
+  "imageHeight": 4016,
+  "imageWidth": 3008
+}

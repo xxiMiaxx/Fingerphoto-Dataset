@@ -1,0 +1,34 @@
+{
+  "version": "4.2.10",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          1110.5454545454545,
+          2442.090909090909
+        ],
+        [
+          1769.6363636363635,
+          2933.0
+        ],
+        [
+          2674.181818181818,
+          1801.1818181818182
+        ],
+        [
+          2183.272727272727,
+          1419.3636363636363
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A1VY6JOGBLDZSM_Index_7.jpg",
+  "imageData": null,
+  "imageHeight": 4160,
+  "imageWidth": 3120
+}
