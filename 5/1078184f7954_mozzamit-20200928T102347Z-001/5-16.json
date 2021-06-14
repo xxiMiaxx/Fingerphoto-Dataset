@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          238.55555555555554,
+          956.3174603174604
+        ],
+        [
+          243.3174603174603,
+          446.7936507936508
+        ],
+        [
+          562.3650793650794,
+          445.2063492063492
+        ],
+        [
+          617.9206349206349,
+          953.1428571428571
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "mozzamit_Middle_6.png",
+  "imageData": null,
+  "imageHeight": 1024,
+  "imageWidth": 780
+}

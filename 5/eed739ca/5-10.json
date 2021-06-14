@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          3050.5,
+          5507.0
+        ],
+        [
+          2713.0,
+          4532.0
+        ],
+        [
+          3250.5,
+          4294.5
+        ],
+        [
+          3800.5,
+          5219.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "eed739ca_Index_10.jpg",
+  "imageData": null,
+  "imageHeight": 8000,
+  "imageWidth": 6000
+}

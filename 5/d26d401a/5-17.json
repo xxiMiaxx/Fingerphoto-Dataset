@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          2611.315789473684,
+          1181.7368421052631
+        ],
+        [
+          2585.0,
+          1834.3684210526314
+        ],
+        [
+          3416.578947368421,
+          1818.578947368421
+        ],
+        [
+          3427.1052631578946,
+          1287.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "d26d401a_Middle_7.jpg",
+  "imageData": null,
+  "imageHeight": 3000,
+  "imageWidth": 4000
+}

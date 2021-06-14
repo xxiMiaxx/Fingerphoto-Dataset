@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          700.75,
+          3134.75
+        ],
+        [
+          1300.75,
+          3166.0
+        ],
+        [
+          1444.5,
+          2159.75
+        ],
+        [
+          882.0,
+          2097.25
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "456a5abb_Index_7.jpg",
+  "imageData": null,
+  "imageHeight": 4000,
+  "imageWidth": 3000
+}

@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          1081.5,
+          2338.25
+        ],
+        [
+          1206.5,
+          1282.0
+        ],
+        [
+          1825.25,
+          1319.5
+        ],
+        [
+          1781.5,
+          2332.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "jacobdaythan_Index_6.png",
+  "imageData": null,
+  "imageHeight": 4032,
+  "imageWidth": 3024
+}

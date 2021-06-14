@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          979.0,
+          2984.666666666667
+        ],
+        [
+          1632.3333333333335,
+          2911.3333333333335
+        ],
+        [
+          1365.666666666667,
+          1898.0
+        ],
+        [
+          885.666666666667,
+          1984.666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Member_6483078598 _Index_10.png",
+  "imageData": null,
+  "imageHeight": 4096,
+  "imageWidth": 2304
+}

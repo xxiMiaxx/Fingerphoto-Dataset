@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          1181.5,
+          2475.75
+        ],
+        [
+          1350.25,
+          1357.0
+        ],
+        [
+          1906.5,
+          1369.5
+        ],
+        [
+          1900.25,
+          2525.75
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "jacobdaythan_Middle_8.png",
+  "imageData": null,
+  "imageHeight": 4032,
+  "imageWidth": 3024
+}

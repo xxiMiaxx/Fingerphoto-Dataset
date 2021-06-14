@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          1688.25,
+          709.75
+        ],
+        [
+          2432.0,
+          966.0
+        ],
+        [
+          1913.25,
+          2141.0
+        ],
+        [
+          1138.25,
+          1878.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "456a5abb_Middle_4.jpg",
+  "imageData": null,
+  "imageHeight": 4000,
+  "imageWidth": 3000
+}
