@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          571.7967479674796,
+          666.6666666666666
+        ],
+        [
+          333.5853658536585,
+          640.650406504065
+        ],
+        [
+          449.0325203252033,
+          314.6341463414634
+        ],
+        [
+          633.5853658536586,
+          354.4715447154472
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A30M7MYW1BHQN1_Middle_4.png.jpeg",
+  "imageData": null,
+  "imageHeight": 1280,
+  "imageWidth": 1280
+}
