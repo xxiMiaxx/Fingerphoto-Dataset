@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          529.4285714285713,
+          1106.8571428571427
+        ],
+        [
+          124.07142857142844,
+          1030.0714285714284
+        ],
+        [
+          222.28571428571422,
+          269.35714285714283
+        ],
+        [
+          643.7142857142856,
+          303.2857142857143
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A3JWCEGDOK8IXH_Middle_2.png",
+  "imageData": null,
+  "imageHeight": 1600,
+  "imageWidth": 736
+}

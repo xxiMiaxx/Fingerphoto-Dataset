@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          786.0281690140846,
+          671.830985915493
+        ],
+        [
+          563.4929577464789,
+          830.9859154929578
+        ],
+        [
+          393.07042253521126,
+          553.5211267605634
+        ],
+        [
+          581.8028169014085,
+          440.84507042253523
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A3QP9FQWFGEZYM_Middle_2.jpeg",
+  "imageData": null,
+  "imageHeight": 1280,
+  "imageWidth": 960
+}

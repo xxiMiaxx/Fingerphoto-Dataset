@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          1653.4545454545455,
+          3969.181818181818
+        ],
+        [
+          617.090909090909,
+          3991.909090909091
+        ],
+        [
+          630.7272727272725,
+          2732.818181818182
+        ],
+        [
+          1489.818181818182,
+          2737.3636363636365
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A3OVS29S2TYBQR_Middle_3.JPG",
+  "imageData": null,
+  "imageHeight": 4032,
+  "imageWidth": 3024
+}

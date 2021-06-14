@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          1097.2222222222222,
+          2112.5
+        ],
+        [
+          802.7777777777778,
+          2086.1111111111113
+        ],
+        [
+          906.9444444444445,
+          1790.2777777777778
+        ],
+        [
+          1130.5555555555557,
+          1816.6666666666667
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A24WVG86YLB7QK_index10_.jpg",
+  "imageData": null,
+  "imageHeight": 3024,
+  "imageWidth": 3024
+}

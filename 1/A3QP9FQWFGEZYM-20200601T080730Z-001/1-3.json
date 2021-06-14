@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          638.1408450704225,
+          1145.0704225352113
+        ],
+        [
+          356.4507042253522,
+          1180.281690140845
+        ],
+        [
+          336.73239436619724,
+          840.8450704225353
+        ],
+        [
+          535.323943661972,
+          818.3098591549297
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A3QP9FQWFGEZYM_Index_3.jpeg",
+  "imageData": null,
+  "imageHeight": 1280,
+  "imageWidth": 960
+}

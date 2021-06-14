@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          2408.647058823529,
+          4887.0
+        ],
+        [
+          473.35294117647027,
+          4704.647058823529
+        ],
+        [
+          1114.5294117647054,
+          1575.2352941176468
+        ],
+        [
+          2855.7058823529405,
+          1804.6470588235293
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A23CFOROXR7G7B_Index_6.jpg",
+  "imageData": null,
+  "imageHeight": 5120,
+  "imageWidth": 3840
+}

@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          1271.8571428571427,
+          2375.7142857142853
+        ],
+        [
+          508.9999999999998,
+          2341.428571428571
+        ],
+        [
+          720.4285714285711,
+          1301.4285714285713
+        ],
+        [
+          1377.5714285714284,
+          1335.7142857142856
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A6VHT7ZOOSO0T_Middle_7.png.jpg",
+  "imageData": null,
+  "imageHeight": 2576,
+  "imageWidth": 1932
+}
