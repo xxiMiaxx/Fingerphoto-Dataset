@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          612.3333333333334,
+          1806.6666666666667
+        ],
+        [
+          627.3333333333334,
+          2076.666666666667
+        ],
+        [
+          1004.0,
+          2021.6666666666667
+        ],
+        [
+          939.0,
+          1785.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WorkerID_middle_8.jpg",
+  "imageData": null,
+  "imageHeight": 4608,
+  "imageWidth": 2218
+}

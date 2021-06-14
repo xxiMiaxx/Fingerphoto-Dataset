@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          2457.5757575757575,
+          1700.0
+        ],
+        [
+          2074.242424242424,
+          1690.9090909090908
+        ],
+        [
+          2177.272727272727,
+          1196.969696969697
+        ],
+        [
+          2463.6363636363635,
+          1221.2121212121212
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "WorkerID_index_4.jpg",
+  "imageData": null,
+  "imageHeight": 2218,
+  "imageWidth": 4608
+}

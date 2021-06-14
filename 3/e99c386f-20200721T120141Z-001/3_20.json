@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          511.0204081632653,
+          894.9387755102041
+        ],
+        [
+          84.48979591836735,
+          843.9183673469388
+        ],
+        [
+          239.59183673469386,
+          145.9591836734694
+        ],
+        [
+          527.3469387755102,
+          198.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "e99c386f_Middle_10.png.jpg",
+  "imageData": null,
+  "imageHeight": 936,
+  "imageWidth": 702
+}

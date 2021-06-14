@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "p",
+      "points": [
+        [
+          2179.0,
+          1056.6666666666667
+        ],
+        [
+          1342.3333333333335,
+          1156.6666666666667
+        ],
+        [
+          1279.0,
+          2686.666666666667
+        ],
+        [
+          2269.0,
+          2433.3333333333335
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "A1V6B98VMTBSFS_Middle_4.jpg",
+  "imageData": null,
+  "imageHeight": 5120,
+  "imageWidth": 3840
+}
