@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "b",
+      "points": [
+        [
+          1591.2352941176468,
+          2710.529411764706
+        ],
+        [
+          2155.9411764705883,
+          2928.176470588235
+        ],
+        [
+          2444.176470588235,
+          2304.6470588235293
+        ],
+        [
+          1926.5294117647054,
+          2081.1176470588234
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "workerID_d700ca95  Index_1.png.jpg",
+  "imageData": null,
+  "imageHeight": 5120,
+  "imageWidth": 3840
+}

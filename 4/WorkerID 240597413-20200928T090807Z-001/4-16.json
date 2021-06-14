@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "b",
+      "points": [
+        [
+          2479.727272727273,
+          5528.636363636364
+        ],
+        [
+          4161.545454545455,
+          5465.0
+        ],
+        [
+          3770.636363636364,
+          2719.5454545454545
+        ],
+        [
+          2288.818181818182,
+          2837.7272727272725
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "workerID240597413 middle06.jpg",
+  "imageData": null,
+  "imageHeight": 8320,
+  "imageWidth": 6240
+}

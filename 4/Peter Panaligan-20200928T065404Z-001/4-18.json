@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "b",
+      "points": [
+        [
+          1431.2727272727275,
+          1673.909090909091
+        ],
+        [
+          2185.818181818182,
+          1573.909090909091
+        ],
+        [
+          1954.0,
+          205.72727272727272
+        ],
+        [
+          1249.4545454545455,
+          373.90909090909093
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "pete007_middle_8.png.jpg",
+  "imageData": null,
+  "imageHeight": 4160,
+  "imageWidth": 3120
+}

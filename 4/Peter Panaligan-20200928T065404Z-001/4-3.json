@@ -1,0 +1,34 @@
+{
+  "version": "4.2.9",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "b",
+      "points": [
+        [
+          1554.0,
+          1496.6363636363637
+        ],
+        [
+          2326.727272727273,
+          1510.2727272727273
+        ],
+        [
+          2272.181818181818,
+          542.0909090909091
+        ],
+        [
+          1685.818181818182,
+          519.3636363636364
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "pete007_index_3.png.jpg",
+  "imageData": null,
+  "imageHeight": 4160,
+  "imageWidth": 3120
+}
